@@ -1,0 +1,115 @@
+Population_name	Region
+Ache	AmericaSouth
+Rotokas	Pacific
+Ika	AmericaSouth
+Akan	Africa
+Standard yiddish	Europe
+Aymara	AmericaSouth
+Baining	Pacific
+Baining	Pacific
+Baining	Pacific
+Baka	Africa
+Shupamem	Africa
+Basque	Europe
+Nupe	Africa
+Banoo	Africa
+Tikar	Africa
+Beja	Africa
+Beja	Africa
+Bengali	CentralSouthAsia
+Amharic	Africa
+Brahui	CentralSouthAsia
+Bulu	Africa
+Burushaski	CentralSouthAsia
+Cambodian	EastAsia
+Chipewyan	AmericasNorthCentral
+Dagur	EastAsia
+Dinka	Africa
+Dioula	Africa
+Epena pedee	AmericaSouth
+Ewondo	Africa
+Fan	Africa
+French	Europe
+Fulfulde (cameroon)	Africa
+Gbaya (northwest, car)	Africa
+Guarani	AmericaSouth
+Gwari	Africa
+Hadza	Africa
+Standard chinese	EastAsia
+Standard chinese	EastAsia
+Hausa (niger)	Africa
+Hausa (niger)	Africa
+Persian	CentralSouthAsia
+Nanai	EastAsia
+Hindi-urdu	CentralSouthAsia
+Igbo	Africa
+Iraqw	Africa
+Italian	Europe
+Japanese	EastAsia
+Kaingang	AmericaSouth
+Kanuri	Africa
+Karitiana	AmericaSouth
+Kashimiri	CentralSouthAsia
+Kikuyu	Africa
+Konkani	CentralSouthAsia
+Kotoko	Africa
+Kuot	Pacific
+Kuot	Pacific
+Lahu	EastAsia
+Nɔmaa (nɔmaándɛ́)	Africa
+Dholuo	Africa
+Maasai	Africa
+Maasai	Africa
+Maasai	Africa
+Maasai	Africa
+Mvumbo	Africa
+Mada	Africa
+Mandingo	Africa
+Maori	Pacific
+Endo	Africa
+Marwari	CentralSouthAsia
+Yucatec	AmericasNorthCentral
+Mbum	Africa
+Hmong	EastAsia
+Mixe	AmericasNorthCentral
+Mixtec	AmericasNorthCentral
+Fan	Africa
+Nasioi	Pacific
+Naxi	EastAsia
+Ngambai	Africa
+Mvumbo	Africa
+Fan	Africa
+Nuer	Africa
+Nyimang	Africa
+Ojibwa	AmericasNorthCentral
+Pashto	CentralSouthAsia
+Podoko	Africa
+Punjabi	CentralSouthAsia
+Quechua	AmericaSouth
+Langi	Africa
+Rendille	Africa
+Russian	Europe
+Sabaot	Africa
+!xu	Africa
+Sandawe	Africa
+Sindhi	CentralSouthAsia
+Tamil	CentralSouthAsia
+Sedik	EastAsia
+Telugu	CentralSouthAsia
+Ticuna	AmericaSouth
+Ticuna	AmericaSouth
+Tigak	Pacific
+Tikar	Africa
+Tikar	Africa
+Monguor	EastAsia
+Yurak	EastAsia
+Italian	Europe
+Kinyarwanda	Africa
+Goajiro	AmericaSouth
+Limbum	Africa
+Manchu	EastAsia
+Yakut	EastAsia
+Nugunu	Africa
+Yorouba (benin)	Africa
+Zapotec	AmericasNorthCentral
+Mofu-gudur	Africa
